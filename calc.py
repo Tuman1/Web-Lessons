@@ -9,3 +9,10 @@ def mulitply(x,y):
     return x*y
 
 print(mulitply(5,6))
+
+def divide(x,y):
+    if y = 0:
+        print("Divide by zero")
+        return False
+    else:
+        return x/y
